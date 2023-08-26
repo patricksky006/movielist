@@ -11,11 +11,12 @@ Website: https://patricksky006.github.io/movielist/
 - Searching movies by title
 - Add movies to your favorite list
 - Manage your favorite list
+- View the more informations of a movie
 
 ### Searching
 Type the title of the movies in search bar
 
 ### Favorite List
 In index page, press the `+` button on the movie to keep it into favorite list.
-You can checkout the favorite list in `favorite.html`
-press `x` to remove it from favorite list
+
+You can checkout the favorite list in `favorite.html` and press `x` to remove it from favorite list.
