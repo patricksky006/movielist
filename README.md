@@ -1,4 +1,5 @@
 # Movielist
+![image](https://github.com/patricksky006/movielist/blob/04f49db9ee8b33ba5ad9cb4d97151521ad196309/indexpage.png)
 AC course practice file
 
 A simple web application for movie fanatic
